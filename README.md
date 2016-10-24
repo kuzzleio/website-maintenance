@@ -1,0 +1,2 @@
+# Kuzzle.io maintenance page
+
